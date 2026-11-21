@@ -1,0 +1,4 @@
+.env*
+.vercel
+build.mjs
+README.md
